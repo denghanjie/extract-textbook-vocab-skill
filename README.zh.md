@@ -19,7 +19,7 @@
 
 ### 方式一：下载 `.skill` 文件（推荐）
 
-1. 从 [Releases](../../releases) 页面下载 `extract-textbook-vocab.skill`
+1. 从 [v1.0.0 发布页](../../releases/tag/v1.0.0) 页面下载 `extract-textbook-vocab.skill`
 2. 解压到对应客户端的技能目录：
 
 ```bash
