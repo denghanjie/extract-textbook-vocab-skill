@@ -15,7 +15,7 @@ When you provide images of textbook pages with annotated words (circled, highlig
 
 ### Option 1: Download the `.skill` file
 
-1. Download `extract-textbook-vocab.skill` from the [releases](../../releases) (or directly from this repo)
+1. Download `extract-textbook-vocab.skill` from the [v1.0.0 release](../../releases/tag/v1.0.0) (or directly from this repo)
 2. Extract it to your Kimi skills directory:
    ```bash
    unzip extract-textbook-vocab.skill -d ~/.kimi/skills/
